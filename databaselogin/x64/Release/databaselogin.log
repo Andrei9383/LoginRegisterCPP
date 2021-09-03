@@ -1,0 +1,59 @@
+﻿  userlogon.cpp
+C:\libraries\fungal-ui\include\fui\ui.h(75,5): warning C5030: attribute 'blocking' is not recognized
+C:\libraries\fungal-ui\include\fui\ui.h(75,5): warning C5222: 'blocking': all unscoped attribute names are reserved for future standardization
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::fungal::input_control<std::vector<bool,std::allocator<bool>>>::_on_enter' via dominance
+C:\libraries\fungal-ui\include\fui\input_control.h(32): message : see declaration of 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::_on_enter'
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::fungal::input_control<std::vector<bool,std::allocator<bool>>>::_on_update' via dominance
+C:\libraries\fungal-ui\include\fui\input_control.h(41): message : see declaration of 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::_on_update'
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::container_control::fungal::container_control::_update_body' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(79): message : see declaration of 'fungal::container_control::_update_body'
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::container_control::fungal::container_control::_on_key_down' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(78): message : see declaration of 'fungal::container_control::_on_key_down'
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::container_control::fungal::container_control::_invalidate' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(80): message : see declaration of 'fungal::container_control::_invalidate'
+C:\libraries\fungal-ui\include\fui\controls\multiselect.h(27,2): warning C4250: 'fungal::multiselect': inherits 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::fungal::input_control<std::vector<bool,std::allocator<bool>>>::reset' via dominance
+C:\libraries\fungal-ui\include\fui\input_control.h(69): message : see declaration of 'fungal::input_control<std::vector<bool,std::allocator<bool>>>::reset'
+C:\libraries\fungal-ui\include\fui\controls\radioselect.h(43,2): warning C4250: 'fungal::radioselect': inherits 'fungal::input_control<fungal::radiobutton *>::fungal::input_control<fungal::radiobutton *>::_on_enter' via dominance
+C:\libraries\fungal-ui\include\fui\input_control.h(32): message : see declaration of 'fungal::input_control<fungal::radiobutton *>::_on_enter'
+C:\libraries\fungal-ui\include\fui\controls\radioselect.h(43,2): warning C4250: 'fungal::radioselect': inherits 'fungal::input_control<fungal::radiobutton *>::fungal::input_control<fungal::radiobutton *>::_on_update' via dominance
+C:\libraries\fungal-ui\include\fui\input_control.h(41): message : see declaration of 'fungal::input_control<fungal::radiobutton *>::_on_update'
+C:\libraries\fungal-ui\include\fui\controls\radioselect.h(43,2): warning C4250: 'fungal::radioselect': inherits 'fungal::container_control::fungal::container_control::_update_body' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(79): message : see declaration of 'fungal::container_control::_update_body'
+C:\libraries\fungal-ui\include\fui\controls\radioselect.h(43,2): warning C4250: 'fungal::radioselect': inherits 'fungal::container_control::fungal::container_control::_on_key_down' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(78): message : see declaration of 'fungal::container_control::_on_key_down'
+C:\libraries\fungal-ui\include\fui\controls\radioselect.h(43,2): warning C4250: 'fungal::radioselect': inherits 'fungal::container_control::fungal::container_control::_invalidate' via dominance
+C:\libraries\fungal-ui\include\fui\container_control.h(80): message : see declaration of 'fungal::container_control::_invalidate'
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(35,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(39,65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(40,65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(41,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(47,42): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(50,14): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(105,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\krypt.cpp(107,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(102,2): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(102,2): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(49,14): warning C4101: 'res': unreferenced local variable
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(48,13): warning C4101: 'row': unreferenced local variable
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(213,2): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(213,2): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(138,14): warning C4101: 'res': unreferenced local variable
+C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\databaselogin\userlogon.cpp(137,13): warning C4101: 'row': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+D:\Programming\source\Fungal UI\src\ui.cpp(7): warning C4722: 'fungal::fui_main::~fui_main': destructor never returns, potential memory leak
+  All 852 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+fui.lib(ui.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(ui.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(container_control.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(container_control.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(page.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(page.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(button.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(button.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(checkbox.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(checkbox.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(radioselect.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(radioselect.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(textfield.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(textfield.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(pch.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(pch.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(control_body.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(control_body.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(control.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(control.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+fui.lib(page_body.obj) : warning LNK4099: PDB 'fui.pdb' was not found with 'fui.lib(page_body.obj)' or at 'C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\fui.pdb'; linking object as if no debug info
+  databaselogin.vcxproj -> C:\Users\andre\OneDrive\Documents\Visual Studio 2022\databaseloginnew\databaselogin\x64\Release\databaselogin.exe
